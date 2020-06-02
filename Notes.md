@@ -1,4 +1,13 @@
-Excel and R
+Excel and R:
+
+Excel 
+-	I tried saving by opening the tab, it canceled the file.
+-	I tried saving it by right clicking it …
+-	Went to site, then downloaded it there as a csv
+-	The file after unzipping it has it already in excel 
+
+R
+-	It worked fine apart from having trouble opening the application = it usually happens to take a while 
 
 ![image i just uploaded](excel1.JPG)
 ![image i just uploaded](excel2.JPG)
@@ -10,10 +19,27 @@ Excel and R
 
 Voyant 
 
+-	My page is a bit different; I assume the link is not the correct one
+-	There is no spark line in the trend section 
+-	https://voyant-tools.org/?corpus=49f48aa297f23faaecb77e664a9f0650
+-	<iframe style='width: 1366px; height: 569px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&corpus=49f48aa297f23faaecb77e664a9f0650'></iframe>
+
 ![image i just uploaded](voyant1.JPG)
 ![image i just uploaded](voyant2.JPG)
 
 Antconc
+
+-	I think I downloaded the wrong file
+-	Im confused about which one to use
+-	I followed the steps and the names in the corpus files don’t look the same
+-	When I did the search for shot it came out weird 
+-	Took a break 
+-	Redid the steps from the link 
+-	When I searched the, other similar words were also highlighted 
+-	I wrote the wrong word = sort in the tab and clicked sort so I think that messed up the findings
+-	When I copied it into notepad, the shot word was not aligned as well the text file
+-	Before, I made a mistake yesterday when I was doing the last step and I realized where I went wrong, I forget to add the directory in the tool preferences, So the key words had an issue
+-	I also opened the wrong file 
 
 ![image i just uploaded](antconc1.JPG)
 ![image i just uploaded](antconc2.JPG)
@@ -36,7 +62,14 @@ Antconc
 ![image i just uploaded](antconc19.JPG)
 ![image i just uploaded](antconc20.JPG)
 
-Topic Modeling and R
+Topic Modeling and R:
+
+Topic modeling 
+-	Issue with finding/choosing the correct directory for the input/output/metadata
+
+With R
+-	I had an error command 
+
 
 ![image i just uploaded](topicmo1.JPG)
 ![image i just uploaded](topicmo2.JPG)
