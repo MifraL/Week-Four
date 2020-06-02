@@ -68,7 +68,7 @@ Topic modeling
 -	Issue with finding/choosing the correct directory for the input/output/metadata
 
 With R
--	I had an error command 
+-	I had an error command
 
 
 ![image i just uploaded](topicmo1.JPG)
