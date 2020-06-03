@@ -23,9 +23,16 @@ Voyant
 -	There is no spark line in the trend section 
 -	https://voyant-tools.org/?corpus=49f48aa297f23faaecb77e664a9f0650
 -	<iframe style='width: 1366px; height: 569px;' src='https://voyant-tools.org/tool/Cirrus/?view=Cirrus&corpus=49f48aa297f23faaecb77e664a9f0650'></iframe>
+- I took a break for a two days to try it again, but the site was not working. 
+- with the new link provided by the prof @ https://service.sadilar.org/voyant/, it worked. 
+- I realized the mistake was when I was choosing the option in the add text tab, I forget to change the documents to 'from cells in each row.' 
+- https://service.sadilar.org/voyant/?corpus=9492212aae922de31dfffac6101cbc6d
+- <iframe style='width: 452px; height: 300px;' src='https://service.sadilar.org/voyant/tool/Cirrus/?corpus=9492212aae922de31dfffac6101cbc6d'></iframe>
 
 ![image i just uploaded](voyant1.JPG)
 ![image i just uploaded](voyant2.JPG)
+![image i just uploaded](voyant3.JPG)
+![image i just uploaded](voyant4.JPG)
 
 Antconc
 
