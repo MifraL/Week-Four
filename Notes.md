@@ -29,10 +29,16 @@ Voyant
 - https://service.sadilar.org/voyant/?corpus=9492212aae922de31dfffac6101cbc6d
 - <iframe style='width: 452px; height: 300px;' src='https://service.sadilar.org/voyant/tool/Cirrus/?corpus=9492212aae922de31dfffac6101cbc6d'></iframe>
 
+- To create my own corpus, I copied the links as mentioned by the prof and followed the procedure 
+- https://service.sadilar.org/voyant/?corpus=26da7c79e061d1766419d3d61d55ec83
+- <iframe style='width: 452px; height: 300px;' src='https://service.sadilar.org/voyant/tool/Trends/?query=honolulu&corpus=26da7c79e061d1766419d3d61d55ec83'></iframe>
+
 ![image i just uploaded](voyant1.JPG)
 ![image i just uploaded](voyant2.JPG)
 ![image i just uploaded](voyant3.JPG)
 ![image i just uploaded](voyant4.JPG)
+![image i just uploaded](voyant5.JPG)
+![image i just uploaded](voyant6.JPG)
 
 Antconc
 
