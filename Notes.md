@@ -98,3 +98,6 @@ Bonus
 
 ![image i just uploaded](bonus1.JPG)
 ![image i just uploaded](bonus2.JPG)
+![image i just uploaded](barcode.PNG)
+![image i just uploaded](barcode(1).PNG)
+![image i just uploaded](barcode(2).PNG)
