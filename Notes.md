@@ -99,5 +99,5 @@ Bonus
 ![image i just uploaded](bonus1.JPG)
 ![image i just uploaded](bonus2.JPG)
 ![image i just uploaded](barcode.png)
-![image i just uploaded](barcode(1).png)
-![image i just uploaded](barcode(2).png)
+![image i just uploaded](plot.png)
+![image i just uploaded](montage.png)
