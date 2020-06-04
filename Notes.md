@@ -39,6 +39,7 @@ Voyant
 ![image i just uploaded](voyant4.JPG)
 ![image i just uploaded](voyant5.JPG)
 ![image i just uploaded](voyant6.JPG)
+![image i just uploaded](voyant7.JPG)
 
 Antconc
 
@@ -92,3 +93,8 @@ With R
 ![image i just uploaded](topicmor1.JPG)
 ![image i just uploaded](topicmor2.JPG)
 ![image i just uploaded](topicmor3.JPG)
+
+Bonus 
+
+![image i just uploaded](bonus1.JPG)
+![image i just uploaded](bonus2.JPG)
