@@ -83,7 +83,11 @@ Topic modeling
 
 With R
 -	I had an error command
-
+- I was done way earlier but I felt a bit embarassed to ask for help even though I was doing it before
+-I realized the mistake would be obvious and it was. I was doing the programming again and realized I forgot to do the library(tidyverse) for some reason. 
+- I wasted a lot of days trying to figure out, take a break and think... It could all have been prevented very easily.
+- I realized for instructions, I tend to browse through fast and I miss a lot little things. Which results in me getting stuck. In my case, I can't blame the computer!!!
+- It is something that I realize I have to change and learn to improve myself so that I can prevent it from happening again. 
 
 ![image i just uploaded](topicmo1.JPG)
 ![image i just uploaded](topicmo2.JPG)
@@ -94,7 +98,13 @@ With R
 ![image i just uploaded](topicmor2.JPG)
 ![image i just uploaded](topicmor3.JPG)
 
+- There was an error because I ran the line for tidy_cb one by one... had to run them together
+-I had an error saying that there was no package(tm). Followed the pinned message by prof to add install.packages("tm") and then library(tm).
+- I had the same issue as Mychelle where there wa an error in LDA... so I added install.packages('topicmodels')
+
 Bonus 
+
+- I think the barcode does not help much in  
 
 ![image i just uploaded](bonus1.JPG)
 ![image i just uploaded](bonus2.JPG)
