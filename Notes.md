@@ -101,13 +101,21 @@ With R
 - There was an error because I ran the line for tidy_cb one by one... had to run them together
 -I had an error saying that there was no package(tm). Followed the pinned message by prof to add install.packages("tm") and then library(tm).
 - I had the same issue as Mychelle where there wa an error in LDA... so I added install.packages('topicmodels')
+- @https://gis.stackexchange.com/questions/312914/error-from-aggregate-function-from-the-r-package-sf for the Error in aggregate.data.frame(as.data.frame(x), ...) : arguments must have same length. It still does not work!!!
+
 
 Bonus 
 
-- I think the barcode does not help much in  
+- I think the barcode is pleasing for purely visuals.
+- The montage is good to see the evolution of the covers as they progess through a period of time.
+- The plot, I'm confused as what it could tell...
 
 ![image i just uploaded](bonus1.JPG)
 ![image i just uploaded](bonus2.JPG)
 ![image i just uploaded](barcode.png)
 ![image i just uploaded](plot.png)
 ![image i just uploaded](montage.png)
+
+Notes
+- I forgot to save the notes.md and I had to restart... I forgot most of the things that I had written. 
+- This week was frustrasting!!!
