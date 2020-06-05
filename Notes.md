@@ -131,5 +131,5 @@ Bonus
 ![image i just uploaded](montage.png)
 
 Notes
-- I forgot to save the notes.md and I had to restart... I forgot most of the things that I had written. 
-- This week was frustrasting!!!
+- I forgot to save the notes.md last night and I had to restart... I forgot most of the things that I had written, before...
+- I remember saving it... this week was frustrasting!!!
