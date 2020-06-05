@@ -97,12 +97,26 @@ With R
 ![image i just uploaded](topicmor1.JPG)
 ![image i just uploaded](topicmor2.JPG)
 ![image i just uploaded](topicmor3.JPG)
+![image i just uploaded](topicmor4.JPG)
+![image i just uploaded](topicmor5.JPG)
+![image i just uploaded](topicmor6.JPG)
+![image i just uploaded](topicmor7.JPG)
+![image i just uploaded](topicmor8.JPG)
+![image i just uploaded](topicmor9.JPG)
+![image i just uploaded](topicmor10.JPG)
+![image i just uploaded](topicmor11.JPG)
+![image i just uploaded](topicmor12.JPG)
+![image i just uploaded](topicmor13.JPG)
+![image i just uploaded](topicmor14.JPG)
+![image i just uploaded](topicmor15.JPG)
 
 - There was an error because I ran the line for tidy_cb one by one... had to run them together
 -I had an error saying that there was no package(tm). Followed the pinned message by prof to add install.packages("tm") and then library(tm).
 - I had the same issue as Mychelle where there wa an error in LDA... so I added install.packages('topicmodels')
 - @https://gis.stackexchange.com/questions/312914/error-from-aggregate-function-from-the-r-package-sf for the Error in aggregate.data.frame(as.data.frame(x), ...) : arguments must have same length. It still does not work!!!
-
+- I did check the source before and I though everything was fine and I restarted the code... the error was still there.
+- Finally, I really dowloaded the cvs after deleting the one I had before and it worked this time. 
+- I think one was the issue was I opened the file and enabled content before and that might have done something.
 
 Bonus 
 
